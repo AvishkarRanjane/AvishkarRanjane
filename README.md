@@ -1,20 +1,32 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=System.init(%22Avishkar+Ranjane%22);Full-Stack+Developer;AI+%26+Data+Science+Explorer;Building+Innovative+Digital+Solutions..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&lines=System.init(%22Avishkar+Ranjane%22);Full-Stack+Developer;AI+%26+Data+Science+Explorer;Building+Innovative+Digital+Solutions..." alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
 ```text
-┌──[ SYSTEM.INFO ]───────────────────────────────────────────┐
-│                                                            │
-│  USER ........ AvishkarRanjane                             │
-│  ROLE ........ Full-Stack Developer & Data Science Explorer│
-│  LOCATION .... Earth 🌐                                    │
-│  FOCUS ....... Web Engineering, OSINT, Data & AI Systems   │
-│  EMAIL ....... mr.avishkarranjane07@gmail.com              │
-│  STATUS ...... 🟢 Online & Building                        │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+ ┌──[ VISUAL.MAP ]──────────────────────────────────────────────────┐
+ │                                                                  │
+ │   [CORE] ----> [WEB ENGINE] ----> [DATA SCIENCE] ----> [OSINT]  │
+ │     │                │                 │                 │       │
+ │   Python         JavaScript          Pandas          CyberScope  │
+ │   Node.js        HTML5/CSS3         Analytics       Investigator │
+ │                                                                  │
+ └──────────────────────────────────────────────────────────────────┘
+```
+
+```text
+ ┌──[ SYSTEM.INFO ]─────────────────────────────────────────────────┐
+ │                                                                  │
+ │  Subject ........ Avishkar Ranjane                               │
+ │  Username ....... AvishkarRanjane                                │
+ │  Role ........... Full-Stack Developer & Data Science Explorer   │
+ │  Origin ......... Earth 🌐                                       │
+ │  Education ...... Computer Science & Software Engineering        │
+ │  Core.Lang ...... JavaScript, Python, HTML/CSS, SQL              │
+ │  Status ......... 🟢 Online & Building                           │
+ │                                                                  │
+ └──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -58,7 +70,7 @@ Full-Stack Developer actively expanding horizons into Data Analysis, Data Scienc
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Dynamic Metrics & GitHub Stats
 
 <div align="center">
   <br/>
@@ -72,16 +84,16 @@ Full-Stack Developer actively expanding horizons into Data Analysis, Data Scienc
 
 ### ⭐ Featured Projects
 
-| Project | Description | Live / Source |
+| Project | Description | Link |
 | :--- | :--- | :---: |
 | **🔍 CyberScope** | Flask-based OSINT investigation platform for IP geolocation & user analysis. | [Live App](https://cyberscope-osint-app.vercel.app) |
 | **☕ Lake Side Café** | E-commerce web app with 3D model previews & WhatsApp order checkout. | [Live App](https://lake-side-cafe.vercel.app) |
 | **🏋️ Elite Fit Gym** | Dark-themed fitness site with 3D tilt effects, trainer roster & bookings. | [Live App](https://elite-fit-gym-nine.vercel.app) |
-| **🐾 Happen Pet** | Sophisticated e-commerce web application for pet provisions. | [GitHub](https://github.com/AvishkarRanjane/HAPPENPET) |
+| **🐾 Happen Pet** | E-commerce web application for pet provisions. | [GitHub](https://github.com/AvishkarRanjane/HAPPENPET) |
 
 ---
 
-### 📬 Connect With Me
+### 📬 Contact & Links
 
 <p align="center">
   <a href="mailto:mr.avishkarranjane07@gmail.com">
@@ -89,6 +101,9 @@ Full-Stack Developer actively expanding horizons into Data Analysis, Data Scienc
   </a>
   <a href="https://github.com/AvishkarRanjane">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://cyberscope-osint-app.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
 </p>
 
