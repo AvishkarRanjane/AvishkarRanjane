@@ -62,10 +62,10 @@ Full-Stack Developer actively expanding horizons into Data Analysis, Data Scienc
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AvishkarRanjane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Avishkar's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkarRanjane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AvishkarRanjane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Avishkar's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvishkarRanjane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkarRanjane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvishkarRanjane&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </div>
 
 ---
