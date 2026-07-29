@@ -86,6 +86,7 @@ Full-Stack Developer actively expanding horizons into Data Analysis, Data Scienc
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
+| **🛕 Divine Trails** | Enterprise-grade temple tour platform with Vite, Firebase v10+ & real-time sync. | [Live App](https://divine-trails.vercel.app) \| [GitHub](https://github.com/AvishkarRanjane/divine-trails) |
 | **🔍 CyberScope** | Flask-based OSINT investigation platform for IP geolocation & user analysis. | [Live App](https://cyberscope-osint-app.vercel.app) |
 | **☕ Lake Side Café** | E-commerce web app with 3D model previews & WhatsApp order checkout. | [Live App](https://lake-side-cafe.vercel.app) |
 | **🏋️ Elite Fit Gym** | Dark-themed fitness site with 3D tilt effects, trainer roster & bookings. | [Live App](https://elite-fit-gym-nine.vercel.app) |
